@@ -1,3 +1,7 @@
 This is Sample file 2
+<<<<<<< HEAD
 diff command checking.
 
+=======
+This line i am adding to sample text file2 on 8th nov.
+>>>>>>> develop
